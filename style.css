@@ -1,0 +1,84 @@
+  /* 全局样式 */
+    body {
+        font-family: Arial, sans-serif;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        background-color: #f9f9f9;
+        line-height: 1.6;
+    }
+
+    /* 页眉样式 */
+    header {
+        background-color: #5865F2;
+        color: #fff;
+        padding: 2em;
+        text-align: center;
+    }
+    header img {
+        width: 100px;
+        height: auto;
+    }
+    header h1 {
+        margin-top: 0.5em;
+        font-size: 2em;
+    }
+    header p {
+        font-size: 1.2em;
+        margin-top: 0.5em;
+    }
+
+    /* 导航栏样式 */
+    nav ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        background-color: #404EED;
+        margin: 0;
+    }
+    nav ul li {
+        margin: 0 1.5em;
+    }
+    nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 1em;
+    }
+    nav ul li a:hover {
+        text-decoration: underline;
+    }
+
+    /* 主体内容样式 */
+    main {
+        max-width: 800px;
+        margin: 2em auto;
+        padding: 1em;
+        text-align: center;
+    }
+
+    /* 按钮样式 */
+    .button {
+        display: inline-block;
+        padding: 1em 2em;
+        margin: 1em 0.5em;
+        background-color: #5865F2;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+    .button:hover {
+        background-color: #404EED;
+    }
+
+    /* 页脚样式 */
+    footer {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1em;
+        font-size: 0.9em;
+        margin-top: 2em;
+    }

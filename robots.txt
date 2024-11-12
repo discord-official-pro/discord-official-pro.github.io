@@ -1,0 +1,29 @@
+# Allow all user agents to crawl the site
+User-agent: *
+
+# Allow access to all main pages
+Allow: /index-en.html
+Allow: /discord-download-en.html
+Allow: /discord-features-en.html
+Allow: /discord-faq-en.html
+Allow: /discord-about-en.html
+
+Allow: /index-zh.html
+Allow: /discord-download-zh.html
+Allow: /discord-features-zh.html
+Allow: /discord-faq-zh.html
+Allow: /discord-about-zh.html
+
+Allow: /index-ko.html
+Allow: /discord-download-ko.html
+Allow: /discord-features-ko.html
+Allow: /discord-faq-ko.html
+Allow: /discord-about-ko.html
+
+# Block access to any potential temporary or sensitive files and directories
+Disallow: /private/
+Disallow: /temp/
+Disallow: /test/
+
+# Specify the location of the sitemap
+Sitemap: https://discor-official.github.io/sitemap.xml

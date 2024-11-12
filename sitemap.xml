@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- English Pages -->
+    <url>
+        <loc>https://discor-official.github.io/index-en.html</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-download-en.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-features-en.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-faq-en.html</loc>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-about-en.html</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Chinese Pages -->
+    <url>
+        <loc>https://discor-official.github.io/index-zh.html</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-download-zh.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-features-zh.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-faq-zh.html</loc>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-about-zh.html</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Korean Pages -->
+    <url>
+        <loc>https://discor-official.github.io/index-ko.html</loc>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-download-ko.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-features-ko.html</loc>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-faq-ko.html</loc>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://discor-official.github.io/discord-about-ko.html</loc>
+        <priority>0.6</priority>
+    </url>
+</urlset>
